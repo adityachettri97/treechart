@@ -1,0 +1,1 @@
+{"version":3,"file":"visual.css","mappings":"AAAA;EACI;EACA;EACA;AACJ","sources":["webpack:///./style/visual.less"],"sourcesContent":[".visualSVG{\n    background-color: aquamarine;\n    width: 100%;\n    height: 100%;\n}"],"names":[],"sourceRoot":""}
